@@ -9,28 +9,61 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "carolina-nd.gl.joinmc.link",
-          "assigned_srv": "carolina-nd.gl.joinmc.link",
+          "reason": "requires-premium"
+        },
+        "status": "disabled"
+      },
+      "created_at": "2024-07-30T02:08:08.603998Z",
+      "disabled_reason": "requires-premium",
+      "domain": null,
+      "expire_notice": null,
+      "firewall_id": null,
+      "id": "7142ffa1-b5ad-453e-94fb-b4106da99097",
+      "name": "Minecraft Java",
+      "origin": {
+        "data": {
+          "agent_id": "198940b8-cf6a-4d26-ab72-482e2f6c7b7d",
+          "agent_name": "from-key-cae3",
+          "local_ip": "127.0.0.1",
+          "local_port": 25565
+        },
+        "type": "agent"
+      },
+      "port_count": 1,
+      "port_type": "tcp",
+      "ratelimit": {
+        "bytes_per_second": null,
+        "packets_per_second": null
+      },
+      "region": "south-america",
+      "tunnel_type": "minecraft-java"
+    },
+    {
+      "active": true,
+      "alloc": {
+        "data": {
+          "assigned_domain": "cars-walt.gl.joinmc.link",
+          "assigned_srv": "cars-walt.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "12737a51-3dfc-4248-b7dd-3561986f732c",
-          "ip_hostname": "20.ip.gl.ply.gg",
+          "id": "60383866-1b1c-4260-b937-c5018d2ae628",
+          "ip_hostname": "21.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 62962,
-          "port_start": 62961,
+          "port_end": 56355,
+          "port_start": 56354,
           "region": "global",
-          "static_ip4": "147.185.221.20",
-          "tunnel_ip": "2602:fbaf:0:1::14"
+          "static_ip4": "147.185.221.21",
+          "tunnel_ip": "2602:fbaf:0:1::15"
         },
         "status": "allocated"
       },
-      "created_at": "2024-07-06T22:25:02.860980Z",
+      "created_at": "2024-08-07T02:37:35.690006Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "c972c076-af48-496e-9076-d175ce30b8d9",
+      "id": "e3930b18-1860-49ea-a315-72276335bd9e",
       "name": "Minecraft Java",
       "origin": {
         "data": {
